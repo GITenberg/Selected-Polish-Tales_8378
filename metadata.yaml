@@ -1,0 +1,78 @@
+_repo: Selected-Polish-Tales_8378
+_version: 0.0.1
+contributor:
+  conductor:
+    agent_name: Kaden-Bandrowski, Juliusz
+    alias: Kaden-Bandrowski, Juljusz
+    birthdate: 1885
+    deathdate: 1944
+    gutenberg_agent_id: '37702'
+    url: http://www.gutenberg.org/2009/agents/37702
+    wikipedia: http://en.wikipedia.org/wiki/Juliusz_Kaden-Bandrowski
+  contributors:
+  - agent_name: Żeromski, Stefan
+    alias: Zeromski, Stefan
+    birthdate: 1864
+    deathdate: &id001 1925
+    gutenberg_agent_id: '37699'
+    url: http://www.gutenberg.org/2009/agents/37699
+    wikipedia: http://en.wikipedia.org/wiki/Stefan_%C5%BBeromski
+  - agent_name: Prus, Bolesław
+    aliases:
+    - Prus, Boleslaw
+    - Glowacki, Aleksander
+    - Głowacki, Aleksander
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '25958'
+    url: http://www.gutenberg.org/2009/agents/25958
+    wikipedia: http://en.wikipedia.org/wiki/Boles%C5%82aw_Prus
+  - agent_name: Szymański, Adam
+    alias: Szymanski, Adam
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '37700'
+    url: http://www.gutenberg.org/2009/agents/37700
+  - agent_name: Nałkowska, Zofia
+    alias: Rygier-Nalkowska, Sofja
+    birthdate: 1884
+    deathdate: 1954
+    gutenberg_agent_id: '37703'
+    url: http://www.gutenberg.org/2009/agents/37703
+  - agent_name: Reymont, Władysław Stanisław
+    aliases:
+    - Reymont, Ladislas
+    - Reymont, Wladyslaw Stanislaw
+    birthdate: 1867
+    deathdate: *id001
+    gutenberg_agent_id: '31559'
+    url: http://www.gutenberg.org/2009/agents/31559
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
+  translators:
+  - agent_name: Benecke, Else C. M. (Else Cecilia Mendelssohn)
+    birthdate: 1873
+    deathdate: 1917
+    gutenberg_agent_id: '2713'
+    url: http://www.gutenberg.org/2009/agents/2713
+  - agent_name: Busch, Marie
+    gutenberg_agent_id: '4632'
+    url: http://www.gutenberg.org/2009/agents/4632
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Polish fiction -- Translations into English'
+- GITenberg
+tableOfContents: The outpost / Bolesław Prus -- A pinch of salt / Adam Szymański
+  -- Kowalski the carpenter / Adam Szymański -- Forebodings / Stefan Żeromski --
+  A Polish scene / Władysław St. Reymont -- Death / Władysław St. Reymont -- The sentence
+  / J. Kaden-Bandrowski -- 'P.P.C.' / Mme. Rygier-Nałkowska.
+title: Selected Polish Tales
+url: http://www.gutenberg.org/ebooks/8378
