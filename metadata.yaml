@@ -1,5 +1,5 @@
 _repo: Selected-Polish-Tales_8378
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   conductor:
     agent_name: Kaden-Bandrowski, Juliusz
@@ -13,7 +13,7 @@ contributor:
   - agent_name: Żeromski, Stefan
     alias: Zeromski, Stefan
     birthdate: 1864
-    deathdate: &id001 1925
+    deathdate: 1925
     gutenberg_agent_id: '37699'
     url: http://www.gutenberg.org/2009/agents/37699
     wikipedia: http://en.wikipedia.org/wiki/Stefan_%C5%BBeromski
@@ -44,7 +44,7 @@ contributor:
     - Reymont, Ladislas
     - Reymont, Wladyslaw Stanislaw
     birthdate: 1867
-    deathdate: *id001
+    deathdate: 1925
     gutenberg_agent_id: '31559'
     url: http://www.gutenberg.org/2009/agents/31559
     wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
@@ -57,7 +57,12 @@ contributor:
   - agent_name: Busch, Marie
     gutenberg_agent_id: '4632'
     url: http://www.gutenberg.org/2009/agents/4632
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8378#Selected-Polish-Tales
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
